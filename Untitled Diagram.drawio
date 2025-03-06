@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
   <diagram name="Pipeline illustreation" id="80d4a630-b321-0f5e-ff81-c5a36ef4752d">
-    <mxGraphModel dx="1593" dy="1646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="1532" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="299" />
-              <mxPoint x="530" y="310" />
-              <mxPoint x="380" y="310" />
+              <mxPoint x="530" y="315" />
+              <mxPoint x="380" y="315" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -219,10 +219,25 @@
         <mxCell id="0edvzaMml-vHqwLhsByY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="0edvzaMml-vHqwLhsByY-39" target="sCFXMmxnf92ywm1HiWFB-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="310" />
-              <mxPoint x="558" y="310" />
+              <mxPoint x="700" y="315" />
+              <mxPoint x="557" y="315" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bd3o4-0RoYGABcS5pm_W-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;add_linename_to_vy_data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="416" y="410" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bd3o4-0RoYGABcS5pm_W-4" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;dataset_pivot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="287" y="550" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bd3o4-0RoYGABcS5pm_W-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;dataset_pivot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="481" y="550" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bd3o4-0RoYGABcS5pm_W-6" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;negative_sum_passengers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="686" y="550" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bd3o4-0RoYGABcS5pm_W-7" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;new_vy_data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="443" width="118" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
