@@ -1929,7 +1929,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="auAdnpeQwOw-9kbtYvtl" name="Incremental Training Figure">
-    <mxGraphModel dx="1142" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2365,8 +2365,8 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6zm2JYO6VPoFckbWh3G-229" value="N-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="40" height="20" as="geometry" />
+        <mxCell id="a6zm2JYO6VPoFckbWh3G-229" value="N = n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="121" y="349" width="40" height="23" as="geometry" />
         </mxCell>
         <mxCell id="a6zm2JYO6VPoFckbWh3G-230" value="N = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="115" y="200" width="50" height="20" as="geometry" />
@@ -2386,11 +2386,23 @@
         <mxCell id="a6zm2JYO6VPoFckbWh3G-240" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="695" y="320" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a6zm2JYO6VPoFckbWh3G-242" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;endSize=3;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="400" as="sourcePoint" />
-            <mxPoint x="470" y="160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wZOnyJFMyvu60TC-efxu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="840" y="237" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wZOnyJFMyvu60TC-efxu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="840" y="277" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wZOnyJFMyvu60TC-efxu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;dashPattern=1 1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="317" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wZOnyJFMyvu60TC-efxu-5" value="Training data" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZOnyJFMyvu60TC-efxu-6" value="Current validating week" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="230" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZOnyJFMyvu60TC-efxu-7" value="Validation set weeks" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="270" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
