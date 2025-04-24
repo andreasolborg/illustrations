@@ -1566,8 +1566,8 @@
         <mxCell id="a6zm2JYO6VPoFckbWh3G-116" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.971;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;endSize=3;curved=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="a6zm2JYO6VPoFckbWh3G-61" target="a6zm2JYO6VPoFckbWh3G-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6zm2JYO6VPoFckbWh3G-117" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="20" height="120" as="geometry" />
+        <mxCell id="a6zm2JYO6VPoFckbWh3G-117" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
