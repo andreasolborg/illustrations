@@ -2414,7 +2414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Incremental Training Figure (new naming)" id="YiHHM1LxJWnr-s60aMMR">
-    <mxGraphModel dx="1057" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="839" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Hee6zSxdmm9qub1Fqdow-0" />
         <mxCell id="Hee6zSxdmm9qub1Fqdow-1" parent="Hee6zSxdmm9qub1Fqdow-0" />
@@ -2455,16 +2455,16 @@
           <mxGeometry x="180" y="400" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hee6zSxdmm9qub1Fqdow-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="hzRHabeFxrjGEeuJACn4-3">
-          <mxGeometry y="7" width="10" height="20" as="geometry" />
+          <mxGeometry y="5" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Hee6zSxdmm9qub1Fqdow-134" value="Current evaluation/update week" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="hzRHabeFxrjGEeuJACn4-3">
-          <mxGeometry x="20" width="180" height="30" as="geometry" />
+        <mxCell id="Hee6zSxdmm9qub1Fqdow-134" value="Current evaluation week" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="hzRHabeFxrjGEeuJACn4-3">
+          <mxGeometry x="20" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hzRHabeFxrjGEeuJACn4-4" value="" style="group" vertex="1" connectable="0" parent="Hee6zSxdmm9qub1Fqdow-1">
           <mxGeometry x="380" y="400" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hee6zSxdmm9qub1Fqdow-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="hzRHabeFxrjGEeuJACn4-4">
-          <mxGeometry y="7" width="10" height="20" as="geometry" />
+          <mxGeometry y="5" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hee6zSxdmm9qub1Fqdow-135" value="Rolling evaluation/update window weeks&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="hzRHabeFxrjGEeuJACn4-4">
           <mxGeometry x="20" width="230" height="30" as="geometry" />
@@ -2473,7 +2473,7 @@
           <mxGeometry x="620" y="400" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hee6zSxdmm9qub1Fqdow-132" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;dashPattern=1 1;strokeWidth=1;" vertex="1" parent="hzRHabeFxrjGEeuJACn4-5">
-          <mxGeometry y="7" width="10" height="20" as="geometry" />
+          <mxGeometry y="5" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Hee6zSxdmm9qub1Fqdow-133" value="Training data added to incremental model" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="hzRHabeFxrjGEeuJACn4-5">
           <mxGeometry x="20" width="230" height="30" as="geometry" />
